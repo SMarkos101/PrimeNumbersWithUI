@@ -1,0 +1,10 @@
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\bin\Debug\PrimeNumbersWithUI.exe.config
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\bin\Debug\PrimeNumbersWithUI.exe
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\bin\Debug\PrimeNumbersWithUI.pdb
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\obj\Debug\PrimeNumbersWithUI.csprojAssemblyReference.cache
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\obj\Debug\PrimeNumbersWithUI.Form1.resources
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\obj\Debug\PrimeNumbersWithUI.Properties.Resources.resources
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\obj\Debug\PrimeNumbersWithUI.csproj.GenerateResource.cache
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\obj\Debug\PrimeNumbersWithUI.csproj.CoreCompileInputs.cache
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\obj\Debug\PrimeNumbersWithUI.exe
+C:\Users\Stefanos\source\repos\PrimeNumbersWithUI\obj\Debug\PrimeNumbersWithUI.pdb
